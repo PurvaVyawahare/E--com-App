@@ -85,14 +85,12 @@ Admin/
 
 3. **Run the User App**
    ```bash
-   cd user
-   flutter run
+   flutter run -t lib/main_user.dart
    ```
 
 4. **Run the Admin App**
    ```bash
-   cd admin
-   flutter run
+   flutter run -t lib/main_admin.dart
    ```
 
 > Ensure you have Flutter installed and an emulator or physical device connected.
